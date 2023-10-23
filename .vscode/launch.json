@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DataManApplication<DataBOT>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.CTS285CoolGroup.DataBOT.DataManApplication",
+            "projectName": "DataBOT",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
